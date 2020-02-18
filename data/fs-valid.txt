@@ -1,0 +1,179 @@
+./data/fs-valid/Screenshot (53).jpg
+./data/fs-valid/IMG_20191126_155444.jpg
+./data/fs-valid/IMG_20191126_160055.jpg
+./data/fs-valid/IMG_20191126_160509.jpg
+./data/fs-valid/Screenshot (72).jpg
+./data/fs-valid/IMG_20191126_160439.jpg
+./data/fs-valid/IMG_20191126_160134.jpg
+./data/fs-valid/IMG_20191126_155538.jpg
+./data/fs-valid/Screenshot (70).jpg
+./data/fs-valid/IMG_20191126_160415.jpg
+./data/fs-valid/Screenshot (91).jpg
+./data/fs-valid/20191126_160148.jpg
+./data/fs-valid/IMG_20191126_161132.jpg
+./data/fs-valid/Screenshot (66).jpg
+./data/fs-valid/IMG_20191126_160054.jpg
+./data/fs-valid/IMG_20191126_155348.jpg
+./data/fs-valid/IMG_20191126_160432.jpg
+./data/fs-valid/Screenshot (79).jpg
+./data/fs-valid/IMG_20191126_160926.jpg
+./data/fs-valid/IMG_20191126_160804.jpg
+./data/fs-valid/20191126_160202.jpg
+./data/fs-valid/Screenshot (83).jpg
+./data/fs-valid/IMG_20191126_161233.jpg
+./data/fs-valid/Screenshot (59).jpg
+./data/fs-valid/IMG_20191126_160923.jpg
+./data/fs-valid/IMG_20191126_160347.jpg
+./data/fs-valid/IMG_20191126_155347.jpg
+./data/fs-valid/IMG_20191126_160339.jpg
+./data/fs-valid/20191126_155444.jpg
+./data/fs-valid/IMG_20191126_161111.jpg
+./data/fs-valid/20191126_160225.jpg
+./data/fs-valid/Screenshot (89).jpg
+./data/fs-valid/20191126_160101.jpg
+./data/fs-valid/Screenshot (75).jpg
+./data/fs-valid/Screenshot (55).jpg
+./data/fs-valid/Screenshot (77).jpg
+./data/fs-valid/Screenshot (80).jpg
+./data/fs-valid/Screenshot (67).jpg
+./data/fs-valid/IMG_20191126_160920.jpg
+./data/fs-valid/IMG_20191126_160224.jpg
+./data/fs-valid/IMG_20191126_160211.jpg
+./data/fs-valid/IMG_20191126_160045.jpg
+./data/fs-valid/IMG_20191126_160353.jpg
+./data/fs-valid/20191126_160400.jpg
+./data/fs-valid/Screenshot (74).jpg
+./data/fs-valid/IMG_20191126_160511.jpg
+./data/fs-valid/IMG_20191126_160823.jpg
+./data/fs-valid/IMG_20191126_160436.jpg
+./data/fs-valid/20191126_160352.jpg
+./data/fs-valid/Screenshot (58).jpg
+./data/fs-valid/20191126_160136.jpg
+./data/fs-valid/Screenshot (68).jpg
+./data/fs-valid/IMG_20191126_161139.jpg
+./data/fs-valid/Screenshot (61).jpg
+./data/fs-valid/IMG_20191126_160502.jpg
+./data/fs-valid/20191126_160116.jpg
+./data/fs-valid/20191126_160158.jpg
+./data/fs-valid/IMG_20191126_160142.jpg
+./data/fs-valid/IMG_20191126_160149.jpg
+./data/fs-valid/IMG_20191126_160506.jpg
+./data/fs-valid/IMG_20191126_160434.jpg
+./data/fs-valid/IMG_20191126_155503_1.jpg
+./data/fs-valid/Screenshot (92).jpg
+./data/fs-valid/Screenshot (64).jpg
+./data/fs-valid/Screenshot (87).jpg
+./data/fs-valid/Screenshot (84).jpg
+./data/fs-valid/Screenshot (62).jpg
+./data/fs-valid/IMG_20191126_160452.jpg
+./data/fs-valid/IMG_20191126_160131.jpg
+./data/fs-valid/IMG_20191126_160429.jpg
+./data/fs-valid/IMG_20191126_161121.jpg
+./data/fs-valid/20191126_155434.jpg
+./data/fs-valid/IMG_20191126_160122.jpg
+./data/fs-valid/IMG_20191126_160747.jpg
+./data/fs-valid/Screenshot (51).jpg
+./data/fs-valid/IMG_20191126_160458.jpg
+./data/fs-valid/IMG_20191126_161202.jpg
+./data/fs-valid/Screenshot (57).jpg
+./data/fs-valid/Screenshot (86).jpg
+./data/fs-valid/Screenshot (54).jpg
+./data/fs-valid/IMG_20191126_160911.jpg
+./data/fs-valid/Screenshot (56).jpg
+./data/fs-valid/IMG_20191126_160408.jpg
+./data/fs-valid/IMG_20191126_160107.jpg
+./data/fs-valid/IMG_20191126_160840.jpg
+./data/fs-valid/20191126_160211.jpg
+./data/fs-valid/IMG_20191126_160405.jpg
+./data/fs-valid/Screenshot (73).jpg
+./data/fs-valid/20191126_160219.jpg
+./data/fs-valid/20191126_160141.jpg
+./data/fs-valid/20191126_160129.jpg
+./data/fs-valid/20191126_160208.jpg
+./data/fs-valid/20191126_155423.jpg
+./data/fs-valid/IMG_20191126_161237.jpg
+./data/fs-valid/IMG_20191126_160817.jpg
+./data/fs-valid/IMG_20191126_161149.jpg
+./data/fs-valid/Screenshot (90).jpg
+./data/fs-valid/20191126_160206.jpg
+./data/fs-valid/20191126_155430.jpg
+./data/fs-valid/IMG_20191126_160413.jpg
+./data/fs-valid/Screenshot (65).jpg
+./data/fs-valid/IMG_20191126_161123.jpg
+./data/fs-valid/Screenshot (88).jpg
+./data/fs-valid/IMG_20191126_161240.jpg
+./data/fs-valid/IMG_20191126_161235.jpg
+./data/fs-valid/Screenshot (85).jpg
+./data/fs-valid/IMG_20191126_160854.jpg
+./data/fs-valid/IMG_20191126_161205.jpg
+./data/fs-valid/IMG_20191126_161200.jpg
+./data/fs-valid/IMG_20191126_155350.jpg
+./data/fs-valid/20191126_160114.jpg
+./data/fs-valid/IMG_20191126_161142.jpg
+./data/fs-valid/IMG_20191126_160113.jpg
+./data/fs-valid/IMG_20191126_155326.jpg
+./data/fs-valid/IMG_20191126_161242.jpg
+./data/fs-valid/Screenshot (81).jpg
+./data/fs-valid/IMG_20191126_161127.jpg
+./data/fs-valid/IMG_20191126_161217.jpg
+./data/fs-valid/IMG_20191126_160202.jpg
+./data/fs-valid/IMG_20191126_155324.jpg
+./data/fs-valid/IMG_20191126_161135.jpg
+./data/fs-valid/20191126_160217.jpg
+./data/fs-valid/20191126_155432.jpg
+./data/fs-valid/20191126_155440.jpg
+./data/fs-valid/20191126_160153.jpg
+./data/fs-valid/Screenshot (49).jpg
+./data/fs-valid/IMG_20191126_161129.jpg
+./data/fs-valid/IMG_20191126_161146.jpg
+./data/fs-valid/Screenshot (82).jpg
+./data/fs-valid/IMG_20191126_160118.jpg
+./data/fs-valid/Screenshot (78).jpg
+./data/fs-valid/IMG_20191126_161219.jpg
+./data/fs-valid/Screenshot (63).jpg
+./data/fs-valid/IMG_20191126_160853.jpg
+./data/fs-valid/IMG_20191126_160034.jpg
+./data/fs-valid/Screenshot (60).jpg
+./data/fs-valid/IMG_20191126_160050.jpg
+./data/fs-valid/IMG_20191126_160124.jpg
+./data/fs-valid/IMG_20191126_160356.jpg
+./data/fs-valid/IMG_20191126_160333.jpg
+./data/fs-valid/IMG_20191126_161118.jpg
+./data/fs-valid/20191126_155437.jpg
+./data/fs-valid/IMG_20191126_160751.jpg
+./data/fs-valid/IMG_20191126_155318.jpg
+./data/fs-valid/IMG_20191126_160216.jpg
+./data/fs-valid/IMG_20191126_160042.jpg
+./data/fs-valid/IMG_20191126_161228.jpg
+./data/fs-valid/IMG_20191126_160027.jpg
+./data/fs-valid/20191126_155442.jpg
+./data/fs-valid/IMG_20191126_161210.jpg
+./data/fs-valid/IMG_20191126_160151.jpg
+./data/fs-valid/Screenshot (76).jpg
+./data/fs-valid/20191126_160108.jpg
+./data/fs-valid/IMG_20191126_161108.jpg
+./data/fs-valid/20191126_155427.jpg
+./data/fs-valid/IMG_20191126_160833.jpg
+./data/fs-valid/IMG_20191126_161222.jpg
+./data/fs-valid/20191126_160351.jpg
+./data/fs-valid/Screenshot (50).jpg
+./data/fs-valid/20191126_155439.jpg
+./data/fs-valid/IMG_20191126_160425.jpg
+./data/fs-valid/IMG_20191126_161226.jpg
+./data/fs-valid/IMG_20191126_160331.jpg
+./data/fs-valid/20191126_160122.jpg
+./data/fs-valid/IMG_20191126_160102.jpg
+./data/fs-valid/IMG_20191126_160932.jpg
+./data/fs-valid/Screenshot (52).jpg
+./data/fs-valid/Screenshot (71).jpg
+./data/fs-valid/IMG_20191126_160201.jpg
+./data/fs-valid/Screenshot (69).jpg
+./data/fs-valid/IMG_20191126_161230.jpg
+./data/fs-valid/20191126_160112.jpg
+./data/fs-valid/20191126_160223.jpg
+./data/fs-valid/IMG_20191126_155331.jpg
+./data/fs-valid/20191126_155421.jpg
+./data/fs-valid/20191126_160213.jpg
+./data/fs-valid/IMG_20191126_161114.jpg
+./data/fs-valid/20191126_160121.jpg
+./data/fs-valid/IMG_20191126_160446.jpg

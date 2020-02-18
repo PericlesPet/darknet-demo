@@ -1,0 +1,6 @@
+classes= 4
+train  = data/fs-train.txt
+valid  = data/fs-valid.txt
+names = data/FSCones.names
+backup = backup/
+

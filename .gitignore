@@ -10,7 +10,7 @@
 *.lib
 *.dylib
 mnist/
-data/
+!data/
 caffe/
 grasp/
 images/
@@ -23,6 +23,10 @@ build/darknet/*
 build_*/
 !build/darknet/YoloWrapper.cs
 .fuse*
+!custom-weights
+!custom-weights/yolov3-tiny-FSCones_30000.weights
+
+
 *.weights
 build/*.cmake
 build/*.ninja

@@ -1,0 +1,9 @@
+/home/pericles/Documents/Aristurtle/darknet/libdark.so
+/home/pericles/Documents/Aristurtle/darknet/include/darknet/darknet.h
+/home/pericles/Documents/Aristurtle/darknet/include/darknet/yolo_v2_class.hpp
+/home/pericles/Documents/Aristurtle/darknet/uselib
+/home/pericles/Documents/Aristurtle/darknet/darknet
+/home/pericles/Documents/Aristurtle/darknet/share/darknet/DarknetTargets.cmake
+/home/pericles/Documents/Aristurtle/darknet/share/darknet/DarknetTargets-noconfig.cmake
+/home/pericles/Documents/Aristurtle/darknet/share/darknet/DarknetConfig.cmake
+/home/pericles/Documents/Aristurtle/darknet/share/darknet/DarknetConfigVersion.cmake
